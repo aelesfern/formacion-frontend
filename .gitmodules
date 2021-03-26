@@ -1,0 +1,6 @@
+[submodule "angular-to-vue"]
+	path = angular-to-vue
+	url = https://github.com/aelesfern/angular-to-vue
+[submodule "docusaurus"]
+	path = docusaurus
+	url = https://github.com/aelesfern/frontend-docusaurus
